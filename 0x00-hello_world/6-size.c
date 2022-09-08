@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
-*
 * main - print the string in the put function
 *
 * Description: using the main function
-* this program prints sizes of various datatypes in C language
+* this program prints the sizes of datatypes in C
 * Return: 0
 */
 int main(void)
